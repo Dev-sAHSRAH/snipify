@@ -58,6 +58,9 @@ export default function AdminLogin() {
                             : "rgb(226, 232, 240)",
                 }}
             >
+                <p className="text-center">
+                    email: testuser@gmail.com | pwd: 123456
+                </p>
                 {/* CardHeader */}
                 <CardHeader
                     color="blue"
