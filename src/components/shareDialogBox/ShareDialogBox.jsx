@@ -103,10 +103,6 @@ export default function ShareDialogBox() {
                             </div>
                         </div>
                     </div>
-
-                    <div className=" text-center">
-                        <h1 className=" text-gray-600">Powered By Devknus</h1>
-                    </div>
                 </DialogBody>
             </Dialog>
         </Fragment>
