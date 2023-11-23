@@ -65,7 +65,7 @@ function Dashboard() {
                             }}
                             className="font-semibold"
                         >
-                            <span>Total Blog : </span> 15
+                            <span>Total Blog : </span> {getAllBlog.length}
                         </h2>
                         <div className=" flex gap-2 mt-2">
                             <Link to={"/createblog"}>
