@@ -91,10 +91,6 @@ function BlogPostCard() {
                                                                     : " rgb(30, 41, 59)",
                                                         }}
                                                     >
-                                                        Lorem, ipsum dolor sit
-                                                        amet consectetur
-                                                        adipisicing elit. Quas,
-                                                        impedit?
                                                     </p>
                                                 </div>
                                             </div>
