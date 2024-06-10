@@ -24,7 +24,7 @@ function AllBlogs() {
                                 color: mode === "dark" ? "white" : "black",
                             }}
                         >
-                            All Blogs
+                             Blogs
                         </h1>
                     </div>
                     {/* Main Content  */}
